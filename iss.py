@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = '???'
+__author__ = 'Mauricio w/ help watching ERICAWENTWEST www.youtube.com'
 
 import requests
 import turtle
